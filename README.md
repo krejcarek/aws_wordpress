@@ -1,6 +1,7 @@
 # aws_wordpress
 
 #Elastic IP with domain - https://medium.com/@lyle-okoth/how-to-create-an-elastic-ip-address-on-aws-and-point-your-domain-to-it-61d45058667a
+#Mail: Gmail Workspace: https://andrewray.me/blog/setting-up-gsuite-gmail-custom-domains-with-aws-route53
 
 #LAMP server for AMI Linux 2 - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-lamp-amazon-linux-2.html
 mariaDB PW: v...

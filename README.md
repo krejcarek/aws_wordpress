@@ -6,11 +6,13 @@
 #LAMP server for AMI Linux 2 - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-lamp-amazon-linux-2.html
 mariaDB PW: v...
 
+#https://www.programsbuzz.com/article/update-php-version-aws-ec2
+
 #enable SSL/TLS: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
 
 #Certbot: https://certbot.eff.org/instructions?ws=apache&os=centosrhel8
-	sudo amazon-linux-extras install epel
-	sudo yum install certbot-apache
+#sudo amazon-linux-extras install epel
+#sudo yum install certbot-apache
 
 	#https://stackoverflow.com/questions/59549309/unable-to-find-a-virtual-host-listening-on-port-80-please-add-a-virtual-host
 

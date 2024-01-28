@@ -28,4 +28,6 @@ mariaDB PW: v...
 		CustomLog /var/www/requests.log combined
 	</VirtualHost>
 
+Renew: sudo certbot renew
+
 #Host wordpress: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
